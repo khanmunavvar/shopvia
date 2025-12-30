@@ -6,7 +6,7 @@ This project was developed as a practical assignment for my **5th Semester**, fo
 
 ## 🔗 Live Demo
 [[View Live Demo](#) ]
-https://shopvia-baocurcxp-munavvar-khans-projects.vercel.app/
+shopvia-tau.vercel.app
 
 ## ✨ Features
 
