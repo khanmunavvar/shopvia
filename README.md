@@ -1,16 +1,31 @@
-# React + Vite
+# Shopvia 🛍️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Shopvia** is a responsive, multi-brand e-commerce web application built using **React.js** and **Tailwind CSS**. 
 
-Currently, two official plugins are available:
+This project was developed as a practical assignment for my **5th Semester**, focusing on component-based architecture and modern UI design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
+[[View Live Demo](#) ]
+(https://vercel.com/munavvar-khans-projects/shopvia)
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Modern Aesthetic:** Clean and visually appealing UI designed with Tailwind CSS.
+- **Multi-Category Shopping:** Dedicated sections for:
+  - 👔 Men's Fashion
+  - 👗 Women's Fashion
+  - 🎧 Electronics
+- **Fully Responsive:** Optimized for Mobile, Tablet, and Desktop views.
+- **Dynamic Routing:** Smooth page transitions using React Router.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js** (Frontend UI)
+- **Tailwind CSS** (Styling)
+- **React Router** (Navigation)
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/khanmunavvar/shopvia.git](https://github.com/khanmunavvar/shopvia.git)
